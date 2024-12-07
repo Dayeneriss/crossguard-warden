@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@axelar-network/axelar-gmp-sdk-solidity": "^6.0.4",
+    "@openzeppelin/contracts": "^5.1.0"
+  }
+}
