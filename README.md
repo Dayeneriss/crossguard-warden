@@ -1,3 +1,11 @@
+## "CrossGuard" - Un coffre-fort de gestion d'actifs multi-chaîne sécurisé
+Fonctionnalités principales :
+
+-   **Utilisation des Keychains de Warden pour la gestion sécurisée des clés**
+-   **Intégration de GMP (Generic Message Passing) pour les interactions cross-chain**
+-   **Système d'Intents pour automatiser les stratégies de gestion d'actifs**
+-   **Intégration avec Axelar pour la compatibilité multi-chaîne**
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
